@@ -38,7 +38,7 @@
     <img src="assets/icons/Go.svg" alt="Go" width="80" height="80"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/mongo.svg" alt="MongoDB" width="80" height="80"/>
+    <img src="assets/icons/mong.png" alt="MongoDB" width="80" height="80"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="assets/icons/nodejs.svg" alt="Node.js" width="80" height="80"/>
