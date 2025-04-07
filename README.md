@@ -51,10 +51,15 @@
   </a>
 </p>
 
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OragnisedChaos&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OragnisedChaos&show_icons=true&theme=dark" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OragnisedChaos&layout=compact&theme=dark" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OragnisedChaos&theme=dark" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OragnisedChaos&show_icons=true&theme=dark" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OragnisedChaos&layout=compact&theme=dark" width="25%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OragnisedChaos&theme=dark" width="35%" />
 </p>
