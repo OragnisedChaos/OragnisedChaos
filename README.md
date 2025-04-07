@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="" alt="OragnisedChaos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OragnisedChaos&label=Profile%20views&color=0e75b6&style=flat" alt="OragnisedChaos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="OragnisedChaos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OragnisedChaos" alt="OragnisedChaos" /></a> </p>
 
 - 🔭 I’ve completed my Master's in **Computer Application**
 
