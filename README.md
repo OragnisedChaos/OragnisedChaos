@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OragnisedChaos" alt="OragnisedChaos" /></a> </p>
 
-- 🔭 I’ve completed my Master's in **Computer Application**
-
-- 🌱 I’m currently learning **Python Based Backend**
+- 💼 Backend Developer working with **Python, Go, AWS & SQL** to build scalable systems  
+- 🌱 Passionate about **System Design** and continually improving in **Data Structures & Algorithms**  
+- 🎓 Master’s in **Computer Applications** from **NIT Jamshedpur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
