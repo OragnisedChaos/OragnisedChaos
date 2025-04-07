@@ -32,7 +32,7 @@
    <img src="assets/icons/python.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="assets/icons/mysql.png" alt="MySQL" width="40" height="40"/>
+     <img src="assets/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="assets/icons/Go.svg" alt="Go" width="40" height="40"/>
