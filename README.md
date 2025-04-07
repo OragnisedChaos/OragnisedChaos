@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
-<h3 align="center">💻 Building Scalable Backends | Python, Go, Node.js | Cloud-Ready with AWS | Databases: MySQL & MongoDB | C++ Buff</h3>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prakhar Verma</h1>
+<h3 align="center">💻 Building Scalable Systems | Python, Go, AWS & SQL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OragnisedChaos&label=Profile%20views&color=0e75b6&style=flat" alt="OragnisedChaos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OragnisedChaos" alt="OragnisedChaos" /></a> </p>
