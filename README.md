@@ -26,28 +26,28 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="assets/icons/aws.svg" alt="AWS" width="40" height="40"/>
+    <img src="assets/icons/aws.svg" alt="AWS" width="80" height="80"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-   <img src="assets/icons/python.svg" alt="Python" width="40" height="40"/>
+   <img src="assets/icons/python.svg" alt="Python" width="80" height="80"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-     <img src="assets/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+     <img src="assets/icons/mysql.svg" alt="MySQL" width="80" height="80"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="assets/icons/Go.svg" alt="Go" width="40" height="40"/>
+    <img src="assets/icons/Go.svg" alt="Go" width="80" height="80"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/mongo.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="assets/icons/mongo.svg" alt="MongoDB" width="80" height="80"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="assets/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
+    <img src="assets/icons/nodejs.svg" alt="Node.js" width="80" height="80"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="assets/icons/express.svg" alt="Express.js" width="40" height="40"/>
+    <img src="assets/icons/express.svg" alt="Express.js" width="80" height="80"/>
   </a>
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
-    <img src="assets/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
+    <img src="assets/icons/c++.svg" alt="C++" width="80" height="80"/>
   </a>
 </p>
 
