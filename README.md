@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">💻 Building Scalable Backends | Python, Go, Node.js | Cloud-Ready with AWS | Databases: MySQL & MongoDB | C++ Buff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OragnisedChaos&label=Profile%20views&color=0e75b6&style=flat" alt="OragnisedChaos" /> </p>
 
