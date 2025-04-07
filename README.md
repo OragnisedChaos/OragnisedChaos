@@ -55,6 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OragnisedChaos&show_icons=true&theme=dark" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OragnisedChaos&layout=compact&theme=dark" width="28%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OragnisedChaos&theme=dark" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OragnisedChaos&layout=compact&theme=dark" width="25%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OragnisedChaos&theme=dark" width="35%" />
 </p>
